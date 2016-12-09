@@ -5,7 +5,7 @@
 
 	<groupId>no.jceldoey.app</groupId>
 	<artifactId>MicroService1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>MicroService1</name>
