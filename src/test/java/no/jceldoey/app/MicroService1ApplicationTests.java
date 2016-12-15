@@ -22,7 +22,7 @@ public class MicroService1ApplicationTests {
 		
 		ResponseEntity<String> response = new UserController().getImage("jceldoey");
 		
-		Assert.isNull(response, "The image avatar object must not be null");
+		Assert.notNull(response, "The image avatar object must not be null");
 	}
 
 }
